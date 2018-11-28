@@ -1,0 +1,11 @@
+{
+  "name": "taro-chart",
+  "version": "1.0.0",
+  "description": "chart for taro",
+  "author": "https://github.com/flappyjet",
+  "license": "MIT",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/flappyjet/taro-chart.git"
+  } 
+}
