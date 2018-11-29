@@ -1,6 +1,6 @@
 import Taro, { Component } from '@tarojs/taro'
 import { Canvas } from '@tarojs/components'
-import { Renderer } from '../lib/renderer'
+import { Renderer } from '../utils/renderer'
 import './index.scss'
 
 export class ChartView extends Component {
